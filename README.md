@@ -1,4 +1,4 @@
-# Computer-Power
+# Computer-Power Folder
 Small Projects achieved through study
 
 # PAPER_SCISSORS_ROCK
@@ -7,7 +7,6 @@ Enter Paper (P), Scissors (S), Rock (R), or Exit (E)
 
 # Bingo
 You will have 10 slots to fill on your BINGO card, which contains random numbers between 1 and 80.
-Each round a random number will be brought out and you can check it against your BINGO card!
 Bingo 'Hidden' Numbers:
    7  26  40  58  73  
   14  22  34  55  68
